@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Algorithms in CS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaudi27](https://github.com/gaudi27)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/gaudi27)
 
-- 💬 Ask me about **My projects**
+- 💬 Ask me about **My Hobbies**
 
 - 📫 How to reach me **gaudi@bu.edu**
 
-- 📄 Know about my experiences [file:///Users/gaudi/Desktop/CS/George%20Audi%20Resume.pdf]([file:///Users/gaudi/Desktop/CS/George%20Audi%20Resume.pdf](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing))
+- 📄 Know about my experiences [Resume]([file:///Users/gaudi/Desktop/CS/George%20Audi%20Resume.pdf](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing))
 
 - ⚡ Fun fact **I love the outdoors!**
 

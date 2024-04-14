@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gaudi@bu.edu**
 
-- 📄 Know about my experiences [Resume]([file:///Users/gaudi/Desktop/CS/George%20Audi%20Resume.pdf](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing))
+- 📄 Know about my experiences [**Resume**]([file:///Users/gaudi/Desktop/CS/George%20Audi%20Resume.pdf](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing))
 
 - ⚡ Fun fact **I love the outdoors!**
 

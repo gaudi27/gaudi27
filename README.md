@@ -10,11 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/gaudi27)
 
-- 💬 Ask me about **My Hobbies**
-
 - 📫 How to reach me **gaudi@bu.edu**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing)
 
 - ⚡ Fun fact **I love the outdoors!**
 

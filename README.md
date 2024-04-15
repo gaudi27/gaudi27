@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Algorithms in CS**
 - 👨‍💻 All of my projects are available here at [My Github](https://github.com/gaudi27)
 - 📫 How to reach me **gaudi@bu.edu**
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing) and [My LinkedIn](https://www.linkedin.com/in/george-audi-83182525a/)
 - ⚡ Fun fact **I love the outdoors!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">

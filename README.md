@@ -5,17 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaudi27&label=Profile%20views&color=0e75b6&style=flat" alt="gaudi27" /> </p>
 
 - 🔭 I’m currently working on [Gmail Parsing](https://github.com/gaudi27/gmailParsing)
-
 - 🌱 I’m currently learning **Algorithms in CS**
-
 - 👨‍💻 All of my projects are available here at [My Github](https://github.com/gaudi27)
-
 - 📫 How to reach me **gaudi@bu.edu**
-
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing)
-
 - ⚡ Fun fact **I love the outdoors!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/george-audi-83182525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george audi" height="30" width="40" /></a>

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Algorithms in CS**
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/gaudi27)
+- 👨‍💻 All of my projects are available here at [My Github](https://github.com/gaudi27)
 
 - 📫 How to reach me **gaudi@bu.edu**
 

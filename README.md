@@ -2,8 +2,6 @@
 <h3 align="center">A passionate computer science student at Boston University</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/26BGIqWh2R1fi6JDa.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaudi27&label=Profile%20views&color=0e75b6&style=flat" alt="gaudi27" /> </p>
-
 - 🔭 I’m currently working on [Gmail Parsing](https://github.com/gaudi27/gmailParsing)
 - 🌱 I’m currently learning **Algorithms in CS**
 - 👨‍💻 All of my projects are available here at [My Github](https://github.com/gaudi27)

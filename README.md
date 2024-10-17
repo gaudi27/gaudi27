@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/26BGIqWh2R1fi6JDa.webp">
 
 - 🔭 I’m currently working on [Master Google Sheet Paster](https://github.com/gaudi27/masterGoogleSheetsPaster)
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Ocaml**
 - 👨‍💻 All of my projects are available here at [My Github](https://github.com/gaudi27)
 - 📫 How to reach me **gaudi@bu.edu**
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing) and [My LinkedIn](https://www.linkedin.com/in/george-audi-83182525a/)

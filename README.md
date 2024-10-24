@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Slack Bot](https://github.com/gaudi27/Slack-Bot)
 - 🌱 I’m currently learning **Ocaml**
-- 👨‍💻 All of my projects are available here at [My Github](https://github.com/gaudi27)
+- 👨‍💻 All of my projects are available here at [My Github](https://github.com/gaudi27) 🤓
 - 📫 How to reach me **gaudi@bu.edu**
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1fARZPgLkOhOsbGJuHtNQvH4-STRC0EPvUUcC-8u6DQY/edit?usp=sharing) and [My LinkedIn](https://www.linkedin.com/in/george-audi-83182525a/)
 - ⚡ Fun fact **I love rock climbing and the outdoors!**
